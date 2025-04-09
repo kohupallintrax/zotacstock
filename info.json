@@ -1,0 +1,17 @@
+{
+  "author": [
+    "kohu"
+  ],
+  "min_bot_version": "3.4.0",
+  "description": "check zotac stock",
+  "hidden": false,
+  "install_msg": "Thank you for installing",
+  "short": "check zotac stock",
+  "end_user_data_statement": "This cog does not store any End User Data",
+  "tags": [
+    "kohu",
+    "utilities",
+    "tool",
+    "tools"
+  ]
+}
